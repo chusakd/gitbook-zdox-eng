@@ -1,19 +1,24 @@
 # Table of contents
 
-## Overview
-
-* [💡 What we do ?](README.md)
-* [✨ Our Features](overview/our-features.md)
-
 ## Fundamentals
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
+* [🛠 Getting set up](README.md)
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-* [Getting Start](fundamentals/getting-start.md)
-* [Working with Dashboard](fundamentals/working-with-dashboard.md)
-* [Document Management](fundamentals/document-management.md)
-* [Electronic Signature](fundamentals/electronic-signature.md)
+* [Getting Start](fundamentals/getting-start/README.md)
+  * [Access to zDOX](fundamentals/getting-start/access-to-zdox/README.md)
+    * [Working with Dashboard](fundamentals/getting-start/access-to-zdox/working-with-dashboard.md)
+  * [User Registration for zDOX](fundamentals/getting-start/user-registration-for-zdox.md)
+  * [UI Overview](fundamentals/getting-start/ui-overview/README.md)
+    * [Dashboard](fundamentals/getting-start/ui-overview/dashboard.md)
+    * [Document Management](fundamentals/getting-start/ui-overview/document-management.md)
+    * [Electronic Signature](fundamentals/getting-start/ui-overview/electronic-signature.md)
+* [Document Management](fundamentals/document-management/README.md)
+  * [Working with Site](fundamentals/document-management/working-with-site.md)
+  * [Working with Folder](fundamentals/document-management/working-with-folder.md)
+  * [Files or Contents](fundamentals/document-management/files-or-contents.md)
+* [Electronic Signature](fundamentals/electronic-signature/README.md)
+  * [Page 1](fundamentals/electronic-signature/page-1.md)
 * [Search](fundamentals/search.md)
 * [User Profiles](fundamentals/user-profiles.md)
 * [Delivering Content](fundamentals/delivering-content.md)
